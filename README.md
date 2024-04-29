@@ -1,7 +1,7 @@
 # BrickBreaker-Game
 The game is basically a recreation of the popular Brick Breaker game in MIPS assembly.
 
-The game is basically a recreation of the popular Brick Breaker game. The player has the following controls controls:
+The player has the following controls controls:
 • A to move paddle left
 • D to move paddle right
 • P to pause the game for a few seconds • Q to quit the game
